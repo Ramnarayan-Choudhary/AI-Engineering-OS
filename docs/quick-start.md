@@ -48,3 +48,5 @@ Because the project's `AGENTS.md` contains the bridge, agents can also discover 
 - Keep project-specific lessons in that project's `LESSONS.md` (route reusable ones up to the OS).
 
 That's the whole loop. Everything else is depth you pull in when a task needs it.
+
+Running this across several projects? See [`local-orchestration.md`](local-orchestration.md) for how one OS coordinates many project repos.

@@ -5,7 +5,7 @@
   Edit OS_PATH to match where you cloned AI Engineering OS.
 -->
 
-> **This project uses [AI Engineering OS](https://github.com/) for reusable AI-collaboration behavior.**
+> **This project uses [AI Engineering OS](https://github.com/Ramnarayan-Choudhary/AI-Engineering-OS) for reusable AI-collaboration behavior.**
 >
 > AI agents: before working here, read the OS at `OS_PATH/START-HERE.md` and follow its
 > session lifecycle (load context → classify task → plan → validate → summarize → update memory).

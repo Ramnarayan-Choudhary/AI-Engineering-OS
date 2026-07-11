@@ -15,10 +15,16 @@ It is not just a prompt library. It is a reusable operating manual for human-AI 
 Most people use AI like this:
 
 ```text
-idea -> prompt -> code -> fix errors -> repeat
+Before:  idea → prompt → code → fix errors → repeat
 ```
 
-That works for small tasks, but it breaks down for serious engineering because every new AI session lacks stable context:
+AI Engineering OS replaces that loop with a disciplined one:
+
+```text
+After:   context → plan → implement → validate → reflect → improve
+```
+
+The first loop works for small tasks, but it breaks down for serious engineering because every new AI session lacks stable context:
 
 - What kind of developer are you?
 - How do you prefer to think?
